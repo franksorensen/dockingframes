@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="docking-frames-common/src/|docking-frames-common/src/|docking-frames-common/testing/|docking-frames-common/testing/|docking-frames-core/src-j6/|docking-frames-core/src/|docking-frames-demo-app-ice/src/|docking-frames-demo-app-ice/src/|docking-frames-demo-app/src/|docking-frames-demo-app/src/|docking-frames-demo-chess/src/|docking-frames-demo-chess/src/|docking-frames-demo-help/src/|docking-frames-demo-help/src/|docking-frames-demo-help/src/bibliothek/help/javadoc/|docking-frames-demo-layouts/src/|docking-frames-demo-layouts/src/|docking-frames-demo-notes/src/|docking-frames-demo-notes/src/|docking-frames-demo-paint/src/|docking-frames-demo-paint/src/|docking-frames-demo-size-and-color/src/|docking-frames-demo-size-and-color/src/|docking-frames-demo-tutorial/src/|docking-frames-demo-tutorial/src/|docking-frames-ext-css-theme/src/|docking-frames-ext-css-theme/src/|docking-frames-ext-glass/src/|docking-frames-ext-glass/src/|docking-frames-ext-toolbar-common/src/|docking-frames-ext-toolbar-common/src/|docking-frames-ext-toolbar-tutorial/src/|docking-frames-ext-toolbar-tutorial/src/|docking-frames-ext-toolbar/src/|docking-frames-ext-toolbar/src/|docking-frames-ext-css-theme/testing/|docking-frames-ext-css-theme/testing/" kind="src" path=""/>
+	<classpathentry kind="src" path="docking-frames-core/src"/>
+	<classpathentry kind="src" path="docking-frames-common/src"/>
+	<classpathentry kind="src" path="docking-frames-common/testing"/>
+	<classpathentry kind="src" path="docking-frames-demo-app/src"/>
+	<classpathentry kind="src" path="docking-frames-demo-help/src"/>
+	<classpathentry kind="src" path="docking-frames-demo-layouts/src"/>
+	<classpathentry kind="src" path="docking-frames-demo-app-ice/src"/>
+	<classpathentry kind="src" path="docking-frames-ext-toolbar-tutorial/src"/>
+	<classpathentry kind="src" path="docking-frames-demo-notes/src"/>
+	<classpathentry kind="src" path="docking-frames-demo-paint/src"/>
+	<classpathentry kind="src" path="docking-frames-demo-size-and-color/src"/>
+	<classpathentry kind="src" path="docking-frames-demo-tutorial/src"/>
+	<classpathentry kind="src" path="docking-frames-demo-chess/src"/>
+	<classpathentry kind="src" path="docking-frames-ext-toolbar-common/src"/>
+	<classpathentry kind="src" path="docking-frames-ext-toolbar/src"/>
+	<classpathentry kind="src" path="docking-frames-ext-glass/src"/>
+	<classpathentry kind="src" path="docking-frames-ext-css-theme/src"/>
+	<classpathentry kind="src" path="docking-frames-ext-css-theme/testing"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="docking-frames-ext-glass/libs/glassLib/glasslib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

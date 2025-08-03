@@ -1,7 +1,4 @@
 .svn
-.project
-.classpath
-.settings/
 
 bin/
 target/
@@ -20,3 +17,5 @@ docking-frames-core/guide/guide.dvi
 docking-frames-core/guide/guide.tex.backup
 docking-frames-core/guide2/dragNdrop/chapter.tex.backup
 docking-frames-core/guide2/guide2.dvi
+
+bin
